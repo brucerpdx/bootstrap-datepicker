@@ -4,6 +4,7 @@
  * =========================================================
  * Copyright 2012 Stefan Petre
  * Improvements by Andrew Rowls
+ * Further edits by Ryan Bruce @brucerpdx to add custom timezone lookup.
  *
  * Adjustments also made by Buffer team (http://www.bufferapp.com)
  *
